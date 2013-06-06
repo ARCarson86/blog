@@ -21,6 +21,9 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'rails-footnotes', '~>3.7.9', :group => :development
+gem 'bootstrap-sass', '~>2.3.1.0'
+gem 'simple_form'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
